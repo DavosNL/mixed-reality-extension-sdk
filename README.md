@@ -144,8 +144,8 @@ The URLs are
 We recommend Visual Studio Code, a lightweight code editor, which is easy to
 use and offers full debugging capabilities for Node.js servers. 
 * Install from here: [Visual Studio Code](https://code.visualstudio.com/)
-* You may want to add the TSLint extension to get style tips - use 
-View->Extensions(ctrl+shift+X), search for TSLint, click Install.
+* You may want to add the ESLint extension to get style tips - use 
+View->Extensions(ctrl+shift+X), search for ESLint, click Install.
 * To build: use Tasks->Run Build Task... (ctrl+shift+B), and you can select
 `npm: Build` for some or all packages.
 * To choose which MRE to launch: go to debugger sidebar: (ctrl+shift+D), and
